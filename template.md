@@ -71,16 +71,17 @@ Examples:
 
 ### Which calendar should be used?
 
-* <label><input type="radio">Elapsed Time</label>
-* <label><input type="radio">Support Business Hours</label>
-* <label><input type="radio">Customer Business Hours</label>
+* <label><input type="radio" name="calendar1">Elapsed Time</label>
+* <label><input type="radio" name="calendar1">Support Business Hours</label>
+* <label><input type="radio" name="calendar1">Customer Business Hours</label>
 
 
 
 ### What action should happen when the rule fires?
-* [ ] Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.
-* [ ] Execute an external script or executable
-* [ ] Send a message to Dovetail Carrier
+
+* <label><input type="radio" name="action1">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
+* <label><input type="radio" name="action1">Execute an external script or executable</label>
+* <label><input type="radio" name="action1">Send a message to Dovetail Carrier</label>
 
 ### Notification Message
 
@@ -88,13 +89,13 @@ If the action is to notify people:
 Who should get notified?
 This could be specific people, such as Fred, the Support Manager. Or it could be relative to the object that the rule fires for, such as the Case Owner, or the Current Queue Members. You can use a combination of both. 
 
-#### Specific People:
+#### Notify Specific People:
 
 <textarea rows="4" cols="80"></textarea>
 
 
 
-#### People relative to the object:
+#### Notify People relative to the object:
 
 * <label><input type="checkbox">Current Owner</label>
 * <label><input type="checkbox">Current Owner’s Supervisor</label>
@@ -113,9 +114,9 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### How important is this message?
 
-* <label><input type="radio">Low</label>
-* <label><input type="radio">Medium</label>
-* <label><input type="radio">Highj</label>
+* <label><input type="radio" name="urgency1">Low</label>
+* <label><input type="radio" name="urgency1">Medium</label>
+* <label><input type="radio" name="urgency1">Highj</label>
 
 
 ### Execute an external script or executable
@@ -134,8 +135,8 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 
 Should this action repeat?
 
-* <label><input type="radio">No</label>
-* <label><input type="radio">Yes</label>
+* <label><input type="radio" name="repeat1">No</label>
+* <label><input type="radio" name="repeat1">Yes</label>
 
 
 A repeating action should have a stop event. 
@@ -153,6 +154,7 @@ Example: Repeat every 4 hours, *for the next 24 hours*
 ---
 
 ## Action #2
+
 ### When should this action start?
 
 Examples:
@@ -164,16 +166,17 @@ Examples:
 
 ### Which calendar should be used?
 
-* <label><input type="radio">Elapsed Time</label>
-* <label><input type="radio">Support Business Hours</label>
-* <label><input type="radio">Customer Business Hours</label>
+* <label><input type="radio" name="calendar2">Elapsed Time</label>
+* <label><input type="radio" name="calendar2">Support Business Hours</label>
+* <label><input type="radio" name="calendar2">Customer Business Hours</label>
 
 
 
 ### What action should happen when the rule fires?
-* [ ] Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.
-* [ ] Execute an external script or executable
-* [ ] Send a message to Dovetail Carrier
+
+* <label><input type="radio" name="action2">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
+* <label><input type="radio" name="action2">Execute an external script or executable</label>
+* <label><input type="radio" name="action2">Send a message to Dovetail Carrier</label>
 
 ### Notification Message
 
@@ -181,13 +184,13 @@ If the action is to notify people:
 Who should get notified?
 This could be specific people, such as Fred, the Support Manager. Or it could be relative to the object that the rule fires for, such as the Case Owner, or the Current Queue Members. You can use a combination of both. 
 
-#### Specific People:
+#### Notify Specific People:
 
 <textarea rows="4" cols="80"></textarea>
 
 
 
-#### People relative to the object:
+#### Notify People relative to the object:
 
 * <label><input type="checkbox">Current Owner</label>
 * <label><input type="checkbox">Current Owner’s Supervisor</label>
@@ -206,9 +209,9 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### How important is this message?
 
-* <label><input type="radio">Low</label>
-* <label><input type="radio">Medium</label>
-* <label><input type="radio">Highj</label>
+* <label><input type="radio" name="urgency2">Low</label>
+* <label><input type="radio" name="urgency2">Medium</label>
+* <label><input type="radio" name="urgency2">Highj</label>
 
 
 ### Execute an external script or executable
@@ -227,8 +230,8 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 
 Should this action repeat?
 
-* <label><input type="radio">No</label>
-* <label><input type="radio">Yes</label>
+* <label><input type="radio" name="repeat2">No</label>
+* <label><input type="radio" name="repeat2">Yes</label>
 
 
 A repeating action should have a stop event. 
