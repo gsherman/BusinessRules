@@ -14,14 +14,21 @@ Be as descriptive as possible.  Use your own words. Talk like a human, not a rob
 
 ## Which object types does this rule apply to?
 
-* <label><input type="checkbox">Case</label>
-* <label><input type="checkbox">Subcase</label>
-* <label><input type="checkbox">Solution</label>
-* <label><input type="checkbox">Change Request</label>
-* <label><input type="checkbox">Part Request</label>
-* <label><input type="checkbox">Action Item</label>
-* <label><input type="checkbox">Contact</label>
-* <label><input type="checkbox">Other</label>
+<label><input type="checkbox">Case</label>
+
+<label><input type="checkbox">Subcase</label>
+
+<label><input type="checkbox">Solution</label>
+
+<label><input type="checkbox">Change Request</label>
+
+<label><input type="checkbox">Part Request</label>
+
+<label><input type="checkbox">Action Item</label>
+
+<label><input type="checkbox">Contact</label>
+
+<label><input type="checkbox">Other</label>
 
 ## What action or event should trigger the rule to start?
 
@@ -71,17 +78,21 @@ Examples:
 
 ### Which calendar should be used?
 
-* <label><input type="radio" name="calendar1">Elapsed Time</label>
-* <label><input type="radio" name="calendar1">Support Business Hours</label>
-* <label><input type="radio" name="calendar1">Customer Business Hours</label>
+<label><input type="radio" name="calendar1">Elapsed Time</label>
+
+<label><input type="radio" name="calendar1">Support Business Hours</label>
+
+<label><input type="radio" name="calendar1">Customer Business Hours</label>
 
 
 
 ### What action should happen when the rule fires?
 
-* <label><input type="radio" name="action1">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
-* <label><input type="radio" name="action1">Execute an external script or executable</label>
-* <label><input type="radio" name="action1">Send a message to Dovetail Carrier</label>
+<label><input type="radio" name="action1">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
+
+<label><input type="radio" name="action1">Execute an external script or executable</label>
+
+<label><input type="radio" name="action1">Send a message to Dovetail Carrier</label>
 
 ### Notification Message
 
@@ -97,14 +108,21 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### Notify People relative to the object:
 
-* <label><input type="checkbox">Current Owner</label>
-* <label><input type="checkbox">Current Owner’s Supervisor</label>
-* <label><input type="checkbox">Contact</label>
-* <label><input type="checkbox">Current Queue Members</label>
-* <label><input type="checkbox">Originator</label>
-* <label><input type="checkbox">Yanked From User</label>
-* <label><input type="checkbox">Originator/Creator</label>
-* <label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
+<label><input type="checkbox">Current Owner</label>
+
+<label><input type="checkbox">Current Owner’s Supervisor</label>
+
+<label><input type="checkbox">Contact</label>
+
+<label><input type="checkbox">Current Queue Members</label>
+
+<label><input type="checkbox">Originator</label>
+
+<label><input type="checkbox">Yanked From User</label>
+
+<label><input type="checkbox">Originator/Creator</label>
+
+<label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
 
 
 ### What should the notification message say?
@@ -114,9 +132,11 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### How important is this message?
 
-* <label><input type="radio" name="urgency1">Low</label>
-* <label><input type="radio" name="urgency1">Medium</label>
-* <label><input type="radio" name="urgency1">High</label>
+<label><input type="radio" name="urgency1">Low</label>
+
+<label><input type="radio" name="urgency1">Medium</label>
+
+<label><input type="radio" name="urgency1">High</label>
 
 
 ### Execute an external script or executable
@@ -135,8 +155,9 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 
 Should this action repeat?
 
-* <label><input type="radio" name="repeat1">No</label>
-* <label><input type="radio" name="repeat1">Yes</label>
+<label><input type="radio" name="repeat1">No</label>
+
+<label><input type="radio" name="repeat1">Yes</label>
 
 
 A repeating action should have a stop event. 
@@ -166,17 +187,21 @@ Examples:
 
 ### Which calendar should be used?
 
-* <label><input type="radio" name="calendar2">Elapsed Time</label>
-* <label><input type="radio" name="calendar2">Support Business Hours</label>
-* <label><input type="radio" name="calendar2">Customer Business Hours</label>
+<label><input type="radio" name="calendar2">Elapsed Time</label>
+
+<label><input type="radio" name="calendar2">Support Business Hours</label>
+
+label><input type="radio" name="calendar2">Customer Business Hours</label>
 
 
 
 ### What action should happen when the rule fires?
 
-* <label><input type="radio" name="action2">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
-* <label><input type="radio" name="action2">Execute an external script or executable</label>
-* <label><input type="radio" name="action2">Send a message to Dovetail Carrier</label>
+<label><input type="radio" name="action2">Notify people via a message (Email, In-app Notifications, SMS, etc.). This is the most common action.</label>
+
+<label><input type="radio" name="action2">Execute an external script or executable</label>
+
+<label><input type="radio" name="action2">Send a message to Dovetail Carrier</label>
 
 ### Notification Message
 
@@ -192,14 +217,21 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### Notify People relative to the object:
 
-* <label><input type="checkbox">Current Owner</label>
-* <label><input type="checkbox">Current Owner’s Supervisor</label>
-* <label><input type="checkbox">Contact</label>
-* <label><input type="checkbox">Current Queue Members</label>
-* <label><input type="checkbox">Originator</label>
-* <label><input type="checkbox">Yanked From User</label>
-* <label><input type="checkbox">Originator/Creator</label>
-* <label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
+<label><input type="checkbox">Current Owner</label>
+
+<label><input type="checkbox">Current Owner’s Supervisor</label>
+
+<label><input type="checkbox">Contact</label>
+
+<label><input type="checkbox">Current Queue Members</label>
+
+<label><input type="checkbox">Originator</label>
+
+<label><input type="checkbox">Yanked From User</label>
+
+<label><input type="checkbox">Originator/Creator</label>
+ 
+<label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
 
 
 ### What should the notification message say?
@@ -209,9 +241,11 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### How important is this message?
 
-* <label><input type="radio" name="urgency2">Low</label>
-* <label><input type="radio" name="urgency2">Medium</label>
-* <label><input type="radio" name="urgency2">High</label>
+<label><input type="radio" name="urgency2">Low</label>
+
+<label><input type="radio" name="urgency2">Medium</label>
+
+<label><input type="radio" name="urgency2">High</label>
 
 
 ### Execute an external script or executable
@@ -231,6 +265,7 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 Should this action repeat?
 
 <label><input type="radio" name="repeat2">No</label>
+
 <label><input type="radio" name="repeat2">Yes</label>
 
 
