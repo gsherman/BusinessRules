@@ -1,5 +1,3 @@
-# Business Rule Recipes
-
 ## Business Rules
 
 ### Notifications
