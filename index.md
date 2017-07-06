@@ -38,7 +38,7 @@
 * [Run Clarify Task Set](Run-Clarify-Task-Set)
 * [Run Dovetail Task Set](Run-Dovetail-Task-Set)
 
-### Calling external apps
+### Calling external apps/scripts
 * [Rule Action Calls an External Executable](Rule-Action-Calls-an-External-Executable)
 * [Rule Action calls cbbatch scripts](Rule-Action-calls-cbbatch-scripts)
 * [Rule Action Calls a Powershell Script](Rule-Action-Calls-a-Powershell-Script)
