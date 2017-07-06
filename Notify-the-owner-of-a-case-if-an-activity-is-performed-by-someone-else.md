@@ -9,6 +9,7 @@
 | Condition 2 |Current Owner does not start with dovetail
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Owner
@@ -37,17 +38,18 @@ View this [Object Type] in Dovetail Agent:
 
 ```
 
-Requires:
+### Requires:
+
 * [Dovetail Rulemanager](https://support.dovetailsoftware.com/selfservice/products/show/RuleManager) or Clarify Rulemanager
 
 
 ## Rule Properties
 The following rule properties are used by this rule and may need to be added to your system. 
-* [Case ID](https://github.com/gsherman/BusinessRuleRecipes/wiki/Case-ID-Rule-Property)
+* [Case ID](Case-ID-Rule-Property)
 * Email Log Notes
 * Phone Notes
 * Notes Text
 * Close Case Notes
-* [DovetailAgentURL](https://github.com/gsherman/BusinessRuleRecipes/wiki/DovetailAgentURL-Rule-Property)
+* [DovetailAgentURL](DovetailAgentURL-Rule-Property)
 
 
