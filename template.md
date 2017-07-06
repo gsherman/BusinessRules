@@ -17,21 +17,20 @@ Like any business process template, this is meant to be used as a guide, and as 
 
 ## Description of the rule.  
 
-Be as descriptive as possible.  Use your own words. Talk like a human, not a robot, computer, or geek! :wink:
+Be as descriptive as possible.  Use your own words. Talk like a human, not a robot, computer, or geek! 
 
 <textarea rows="6" cols="80"></textarea>
 
 ## Which object types does this rule apply to?
 
-* [ ] Case
 * <label><input type="checkbox">Case</label>
-* [ ] Subcase
-* [ ] Solution
-* [ ] Change Request
-* [ ] Part Request
-* [ ] Action Item
-* [ ] Contact
-* [ ] Other
+* <label><input type="checkbox">Subcase</label>
+* <label><input type="checkbox">Solution</label>
+* <label><input type="checkbox">Change Request</label>
+* <label><input type="checkbox">Part Request</label>
+* <label><input type="checkbox">Action Item</label>
+* <label><input type="checkbox">Contact</label>
+* <label><input type="checkbox">Other</label>
 
 ## What action or event should trigger the rule to start?
 
@@ -81,9 +80,10 @@ Examples:
 
 ### Which calendar should be used?
 
-* [ ] Elapsed Time
-* [ ] Support Business Hours
-* [ ] Customer Business Hours
+* <label><input type="radio">Elapsed Time</label>
+* <label><input type="radio">Support Business Hours</label>
+* <label><input type="radio">Customer Business Hours</label>
+
 
 
 ### What action should happen when the rule fires?
@@ -105,24 +105,26 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### People relative to the object:
 
-* [ ] Current Owner
-* [ ] Current Owner’s Supervisor
-* [ ] Contact
-* [ ] Current Queue Members
-* [ ] Originator
-* [ ] Yanked From User
-* [ ] Originator/Creator
-* [ ] Parent Case Owner (for child cases or subcases)
+* <label><input type="checkbox">Current Owner</label>
+* <label><input type="checkbox">Current Owner’s Supervisor</label>
+* <label><input type="checkbox">Contact</label>
+* <label><input type="checkbox">Current Queue Members</label>
+* <label><input type="checkbox">Originator</label>
+* <label><input type="checkbox">Yanked From User</label>
+* <label><input type="checkbox">Originator/Creator</label>
+* <label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
+
 
 ### What should the notification message say?
 
-<textarea rows="6" cols="80"></textarea>
+<textarea rows="8" cols="80"></textarea>
 
 
 ### How important is this message?
-* [ ] Low
-* [ ] Medium
-* [ ] High
+
+* <label><input type="radio">Low</label>
+* <label><input type="radio">Medium</label>
+* <label><input type="radio">Highj</label>
 
 
 ### Execute an external script or executable
@@ -140,8 +142,10 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 ### Repeating Action
 
 Should this action repeat?
-* [ ] No
-* [ ] Yes
+
+* <label><input type="radio">No</label>
+* <label><input type="radio">Yes</label>
+
 
 A repeating action should have a stop event. 
 Example: Notify queue members when a case is dispatched to a queue. Keep notifying them every 4 hours until the case is accepted out of the queue.
@@ -158,7 +162,6 @@ Example: Repeat every 4 hours, *for the next 24 hours*
 ---
 
 ## Action #2
-
 ### When should this action start?
 
 Examples:
@@ -170,9 +173,10 @@ Examples:
 
 ### Which calendar should be used?
 
-* [ ] Elapsed Time
-* [ ] Support Business Hours
-* [ ] Customer Business Hours
+* <label><input type="radio">Elapsed Time</label>
+* <label><input type="radio">Support Business Hours</label>
+* <label><input type="radio">Customer Business Hours</label>
+
 
 
 ### What action should happen when the rule fires?
@@ -194,24 +198,26 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### People relative to the object:
 
-* [ ] Current Owner
-* [ ] Current Owner’s Supervisor
-* [ ] Contact
-* [ ] Current Queue Members
-* [ ] Originator
-* [ ] Yanked From User
-* [ ] Originator/Creator
-* [ ] Parent Case Owner (for child cases or subcases)
+* <label><input type="checkbox">Current Owner</label>
+* <label><input type="checkbox">Current Owner’s Supervisor</label>
+* <label><input type="checkbox">Contact</label>
+* <label><input type="checkbox">Current Queue Members</label>
+* <label><input type="checkbox">Originator</label>
+* <label><input type="checkbox">Yanked From User</label>
+* <label><input type="checkbox">Originator/Creator</label>
+* <label><input type="checkbox">Parent Case Owner (for child cases or subcases)</label>
+
 
 ### What should the notification message say?
 
-<textarea rows="6" cols="80"></textarea>
+<textarea rows="8" cols="80"></textarea>
 
 
 ### How important is this message?
-* [ ] Low
-* [ ] Medium
-* [ ] High
+
+* <label><input type="radio">Low</label>
+* <label><input type="radio">Medium</label>
+* <label><input type="radio">Highj</label>
 
 
 ### Execute an external script or executable
@@ -225,11 +231,14 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 <textarea rows="6" cols="80"></textarea>
 
 
+
 ### Repeating Action
 
 Should this action repeat?
-* [ ] No
-* [ ] Yes
+
+* <label><input type="radio">No</label>
+* <label><input type="radio">Yes</label>
+
 
 A repeating action should have a stop event. 
 Example: Notify queue members when a case is dispatched to a queue. Keep notifying them every 4 hours until the case is accepted out of the queue.
@@ -241,7 +250,6 @@ How long should it keep repeating for?
 Example: Repeat every 4 hours, *for the next 24 hours*
 
 <textarea rows="4" cols="80"></textarea>
-
 
 ---
 
