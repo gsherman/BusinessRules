@@ -15,9 +15,14 @@
     margin-right: 5px;
     width: 30px;
     height:30px;
+    -webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
 
-#project-title{display: inline-block;}
+#project-title{
+    display: inline-block;
+}
 
 table > thead > tr > th{
     height:2px;
