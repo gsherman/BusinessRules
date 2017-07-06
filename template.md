@@ -75,6 +75,13 @@ Examples:
 
 ---
 
+## Business Rule Actions
+
+
+Business rules have associated Actions. The Action is *what* happens when the rule fires. A business rule must have at least one action, and it can have as many actions as needed.
+
+---
+
 ## Action #1
 
 ### When should this action start?
