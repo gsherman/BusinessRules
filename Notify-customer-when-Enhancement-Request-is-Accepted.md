@@ -9,6 +9,7 @@
 | Condition 2| Case Type = Enhancement Request
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Contact

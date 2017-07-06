@@ -8,6 +8,7 @@
 | Cancel Events | Close Task, Next Action Due Date Calculated
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Next Action Due Date Calculated
@@ -34,6 +35,7 @@ Owner: [Current Owner]
 
 
 ## Rule Action #2
+
 |  |  |
 | ------------- | ------------- |
 | Title	| IncrementNumberOfSlaViolations

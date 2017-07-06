@@ -8,6 +8,7 @@
 | Condition 1 | Logger does not start with Dovetail
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| CalculateNextDueDate

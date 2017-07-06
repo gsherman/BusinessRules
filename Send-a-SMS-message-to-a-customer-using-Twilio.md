@@ -8,6 +8,7 @@
 | Condition 1 | Notes Log Type = SMS
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Send SMS
@@ -33,7 +34,7 @@ Requires:
 * [Dovetail Carrier](https://support.dovetailsoftware.com/selfservice/products/show/Dovetail%20Carrier)
 
 ## Rule Properties
-* [Contact Mobile Number](https://github.com/gsherman/BusinessRuleRecipes/wiki/Contact-Mobile-Number-Rule-Property)
+* [Contact Mobile Number](Contact-Mobile-Number-Rule-Property)
 
 ## Notes
 * This is an integration with [Twilio](https://twilio.com/), so you need a Twilio account.

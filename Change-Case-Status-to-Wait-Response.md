@@ -1,6 +1,6 @@
 Changes Case Status from Customer Update to Wait Response when an Agent responds to a customer
 
-This rule is often used in conjunction with the [Changes Case Status to Customer Update](https://github.com/gsherman/BusinessRuleRecipes/wiki/Changes-Case-Status-to-Customer-Update) rule, so that status changes happen automatically, depending on whether an Agent responded to a customer or whether the customer responded to the Support center. 
+This rule is often used in conjunction with the [Changes Case Status to Customer Update](Changes-Case-Status-to-Customer-Update) rule, so that status changes happen automatically, depending on whether an Agent responded to a customer or whether the customer responded to the Support center. 
 
 ## Business Rule
 
@@ -13,6 +13,7 @@ This rule is often used in conjunction with the [Changes Case Status to Customer
 | Condition 2 |Logger does not start with dovetail
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Change Status

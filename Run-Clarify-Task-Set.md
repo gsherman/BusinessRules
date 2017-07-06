@@ -9,6 +9,7 @@ Have rulemanager run a clarify task set using Clarify's tskmgr.exe
 | Start Events| Run Task Set
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Run Clarify Task Set
@@ -26,6 +27,6 @@ Requires:
 * [Dovetail Rulemanager](https://support.dovetailsoftware.com/selfservice/products/show/RuleManager) or Clarify Rulemanager
 
 ## Rule Properties
-* [Task Set Name](https://github.com/gsherman/BusinessRuleRecipes/wiki/Task-Set-Name-Rule-Property)
+* [Task Set Name](Task-Set-Name-Rule-Property)
 
 

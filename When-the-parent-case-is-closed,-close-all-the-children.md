@@ -8,6 +8,7 @@
 | Condition 1 | Number Of Child Cases > 0
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Auto-Close the Children
@@ -31,8 +32,8 @@ Requires:
 
 ## Rule Properties
 The following rule properties are used by this rule and may need to be added to your system. 
-* [Case ID](https://github.com/gsherman/BusinessRuleRecipes/wiki/Case-ID-Rule-Property)
-* [Number Of Child Cases](https://github.com/gsherman/BusinessRuleRecipes/wiki/Number-Of-Child-Cases-Rule-Property)
+* [Case ID](Case-ID-Rule-Property)
+* [Number Of Child Cases](Number-Of-Child-Cases-Rule-Property)
 
 ## Notes
 When this message is handled, an internal note will be logged to the parent case with details of what happened, including which cases were closed, which are already closed, and which could not e closed (along with the reason why it could not be closed). 

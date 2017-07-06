@@ -9,6 +9,7 @@
 | Conditions | None
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Queue Members
@@ -36,6 +37,7 @@ Severity: [Severity]
 
 
 ## Rule Action #2
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Queue Supervisors after 2 hours

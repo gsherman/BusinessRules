@@ -10,6 +10,7 @@ We'll delay the rule by 1 hour, in order to give the Solution Creator time to do
 | Start Events| Create
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Post to Hipchat

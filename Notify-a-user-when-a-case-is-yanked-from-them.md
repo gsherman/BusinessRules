@@ -8,6 +8,7 @@
 | Conditions | None
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Yankee
@@ -32,4 +33,4 @@ Requires:
 
 ## Rule Properties
 The following rule properties are used by this rule and may need to be added to your system. 
-* [Yanked From User](https://github.com/gsherman/BusinessRuleRecipes/wiki/Yanked-From-User-Rule-Property)
+* [Yanked From User](Yanked-From-User-Rule-Property)

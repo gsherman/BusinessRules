@@ -10,6 +10,7 @@
 | Condition 2 | Parent Case ID > 0
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Close Case
@@ -33,9 +34,9 @@ Requires:
 
 ## Rule Properties
 The following rule properties are used by this rule and may need to be added to your system. 
-* [Conditions of Sibling Subcases ](https://github.com/gsherman/BusinessRuleRecipes/wiki/Conditions-of-Sibling-Subcases-Rule-Property)
-* [Case ID](https://github.com/gsherman/BusinessRuleRecipes/wiki/Case-ID-Rule-Property)
-* [NumberOfOpenChildCasesOnParent](https://github.com/gsherman/BusinessRuleRecipes/wiki/NumberOfOpenChildCasesOnParent)
+* [Conditions of Sibling Subcases ](Conditions-of-Sibling-Subcases-Rule-Property)
+* [Case ID](Case-ID-Rule-Property)
+* [NumberOfOpenChildCasesOnParent](NumberOfOpenChildCasesOnParent)
 
 
 ### Option:  Use a PowerShell or ClearBasic script

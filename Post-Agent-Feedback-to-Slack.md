@@ -12,6 +12,7 @@ When this happens, this rule will post the feedback to a [Slack](https://slack.c
 | Condition 2 | Queue = Feedback
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Post to Slack

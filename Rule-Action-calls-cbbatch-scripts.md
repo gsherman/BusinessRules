@@ -9,6 +9,7 @@ Rule Action calls cbbatch (ClearBasic Batch) scripts
 | Start Events| Log Note (or whatever event you want)
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Call cbbatch scripts

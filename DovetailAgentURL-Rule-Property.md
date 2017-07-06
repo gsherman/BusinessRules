@@ -10,5 +10,5 @@
 | Is Function	| False
 
 ## Notes
-This is a [Configuration Item Rule Property(https://support.dovetailsoftware.com/documentation/RuleManager/2.4.1/html/3936.htm)
+This is a [Configuration Item Rule Property](https://support.dovetailsoftware.com/documentation/RuleManager/2.4.1/html/3936.htm)
 

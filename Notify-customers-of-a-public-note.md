@@ -9,6 +9,7 @@
 | Condition 2 | Notes Log Is Internal = 0
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Contact

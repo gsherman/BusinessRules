@@ -9,6 +9,7 @@ Rule Action Calls a Powershell Script
 | Start Events| Log Note (or whatever event you want)
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Call a powershell script

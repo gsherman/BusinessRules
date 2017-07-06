@@ -12,6 +12,7 @@ When an Agent logs an email or logs a phone call to a case, mark the Initial Res
 | Condition 3 |Logger != SelfService
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Set the Initial Response Flag
@@ -32,8 +33,8 @@ Requires:
 
 ## Rule Properties
 The following rule properties are used by this rule and may need to be added to your system. 
-* [Responded To](https://github.com/gsherman/BusinessRuleRecipes/wiki/Responded-To-Rule-Property)
-* [Case ID](https://github.com/gsherman/BusinessRuleRecipes/wiki/Case-ID-Rule-Property)
+* [Responded To](Responded-To-Rule-Property)
+* [Case ID](Case-ID-Rule-Property)
 
 ## Notes
 The conditions exclude events that happen via Dovetail Carrier (such as an incoming email on a case), and they exclude events that happen from within SelfService/WebSupport. You may need to adjust these Logger conditions to match the login names used in your specific environment. 

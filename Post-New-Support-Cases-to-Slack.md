@@ -10,6 +10,7 @@ When a case is dispatched, this rule will post the case to a [Slack](https://sla
 | Condition 1 | Case Type = Support
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Post to Slack

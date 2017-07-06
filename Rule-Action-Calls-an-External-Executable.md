@@ -11,6 +11,7 @@ Example of executables include your own custom exe, cbbatch.exe, powershell.exe,
 | Start Events| Log Note (or whatever event you want)
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Call an External Executable

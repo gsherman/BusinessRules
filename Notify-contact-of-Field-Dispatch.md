@@ -8,6 +8,7 @@
 | Conditions | None
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Contact

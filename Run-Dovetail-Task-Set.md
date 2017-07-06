@@ -9,6 +9,7 @@ Have rulemanager run a Dovetail task set using Dovetail Carrier
 | Start Events| Run Task Set
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Run Clarify Task Set

@@ -10,4 +10,5 @@
 | Is Function	| False
 
 ## Notes
-This property will work with Dovetail Rulemanager. It will not work with Clarify Rulemanager
+
+* This property will work with Dovetail Rulemanager. It will not work with Clarify Rulemanager

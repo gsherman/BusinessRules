@@ -7,6 +7,7 @@
 | Start Events| Close Task
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| ClearNextDueDate

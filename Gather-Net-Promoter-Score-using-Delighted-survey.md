@@ -9,6 +9,7 @@ When a case is closed, call the [Delighted](https://delighted.com/) API to send 
 | Start Events| Close Task
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Call Delighted API

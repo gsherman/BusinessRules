@@ -8,6 +8,7 @@
 | Condition 1 | Previous Status = On Hold
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| ClearNextDueDate

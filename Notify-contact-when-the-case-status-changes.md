@@ -8,6 +8,7 @@
 | Condition 1| Logger != dovetail-selfservice
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Notify the Contact

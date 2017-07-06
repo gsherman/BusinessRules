@@ -1,6 +1,6 @@
 Changes Case Status to Customer Update when customer responds to a Case. 
 
-This rule is often used in conjunction with the [Change Case Status to Wait Response](https://github.com/gsherman/BusinessRuleRecipes/wiki/Change-Case-Status-to-Wait-Response) rule, so that status changes happen automatically, depending on whether an Agent responded to a customer or whether the customer responded to the Support center. 
+This rule is often used in conjunction with the [Change Case Status to Wait Response](Change-Case-Status-to-Wait-Response) rule, so that status changes happen automatically, depending on whether an Agent responded to a customer or whether the customer responded to the Support center. 
 
 ## Business Rule
 
@@ -14,6 +14,7 @@ This rule is often used in conjunction with the [Change Case Status to Wait Resp
 | Condition 3 |Condition does not start with Closed
 
 ## Rule Action #1
+
 |  |  |
 | ------------- | ------------- |
 | Title	| Change Status
