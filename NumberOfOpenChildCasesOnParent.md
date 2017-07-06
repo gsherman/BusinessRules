@@ -1,3 +1,4 @@
+### Rule Property
 |  |  |
 | ------------- | ------------- |
 | Name	| NumberOfOpenChildCasesOnParent

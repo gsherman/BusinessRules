@@ -29,7 +29,7 @@ Requires:
 ## Notes
 * Take note of the Rule Action Type of `Command Line`
 * In this example, `CloseCase.bat` is simply a wrapper script for calling the `CloseCase.ps1` Powershell script.
-* All of these scripts are freely available at https://github.com/gsherman/powershell
+* All of these scripts are freely available at [https://github.com/gsherman/powershell](https://github.com/gsherman/powershell)
 
 ## Related
 * [Rule Action calls an external executable](Rule-Action-Calls-an-External-Executable)

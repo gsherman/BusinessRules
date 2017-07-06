@@ -66,7 +66,7 @@ The following rule properties are used by this rule and may need to be added to 
 * The case will be automatically closed 3 days after that (6 days total from when the agent set the status)
 * The rule will be canceled if the status gets changed or the case gets closed.
 
-More details on this workflow can be found at http://clarify.dovetailsoftware.com/gsherman/2011/01/06/auto-closing-a-case-workflow/
+More details on this workflow can be found in [this blog post](http://clarify.dovetailsoftware.com/gsherman/2011/01/06/auto-closing-a-case-workflow/)
 
 ### Option:  Use a PowerShell or ClearBasic script
 The rule action uses Dovetail Carrier's SDK Toolkit extension to close the case. 

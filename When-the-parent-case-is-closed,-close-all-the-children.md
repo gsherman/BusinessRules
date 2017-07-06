@@ -39,6 +39,7 @@ The following rule properties are used by this rule and may need to be added to 
 When this message is handled, an internal note will be logged to the parent case with details of what happened, including which cases were closed, which are already closed, and which could not e closed (along with the reason why it could not be closed). 
 
 ### Example of note that is logged
+
 ```
 Closing all child cases…
 Case 4222 - closed
@@ -49,4 +50,4 @@ Case 4268 - not closed. This case has open general subcases, therefore it cannot
 Closed: 2
 Already Closed: 1
 Not Closed: 1
-``
+```

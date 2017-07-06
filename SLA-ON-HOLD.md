@@ -28,5 +28,5 @@ Requires:
 * [Dovetail Carrier](https://support.dovetailsoftware.com/selfservice/products/show/Dovetail%20Carrier)
 
 ## Notes
-* For more details on SLAs with Dovetail Carrier, refer to (this blog post](http://clarify.dovetailsoftware.com/gsherman/2016/08/09/sla-calculations-using-dovetail-carrier/)
+* For more details on SLAs with Dovetail Carrier, refer to [this blog post](http://clarify.dovetailsoftware.com/gsherman/2016/08/09/sla-calculations-using-dovetail-carrier/)
 
