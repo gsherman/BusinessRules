@@ -14,12 +14,9 @@ Be as descriptive as possible.  Use your own words. Talk like a human, not a rob
 
 ## Which object types does this rule apply to?
 
-<label><input type="checkbox">Case</label>
-
-<label><input type="checkbox">Subcase</label>
-
-<label><input type="checkbox">Solution</label>
-
+<label><input type="checkbox">Case</label>  
+<label><input type="checkbox">Subcase</label>  
+<label><input type="checkbox">Solution</label>  
 <label><input type="checkbox">Change Request</label>
 
 <label><input type="checkbox">Part Request</label>
@@ -191,7 +188,7 @@ Examples:
 
 <label><input type="radio" name="calendar2">Support Business Hours</label>
 
-label><input type="radio" name="calendar2">Customer Business Hours</label>
+<label><input type="radio" name="calendar2">Customer Business Hours</label>
 
 
 
