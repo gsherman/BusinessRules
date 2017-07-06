@@ -1,6 +1,6 @@
 # Business Rule Template
 
-<textarea rows="6" cols="50"></textarea>
+<textarea rows="6" cols="80"></textarea>
 
 <textarea>foo</textarea>
 
@@ -19,17 +19,12 @@ Like any business process template, this is meant to be used as a guide, and as 
 
 Be as descriptive as possible.  Use your own words. Talk like a human, not a robot, computer, or geek! :wink:
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ## Which object types does this rule apply to?
 
 * [ ] Case
+* <label><input type="checkbox">Case</label>
 * [ ] Subcase
 * [ ] Solution
 * [ ] Change Request
@@ -45,13 +40,7 @@ Examples:
 * Start this rule when a case is closed
 * Start this rule when a new customer (contact) is created
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ## What action or event should trigger the rule to stop?
 
@@ -59,13 +48,7 @@ Examples:
 * Stop this rule when the case is accepted or yanked from a queue
 * Stop this rule when the subcase is closed
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ## Describe any conditions that apply to this rule.
 
@@ -74,13 +57,7 @@ Examples:
 * This rule should only fire if the Queue is Technical Support
 * This rule should only fire if the Contact is not in the United States
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ---
 
@@ -100,13 +77,7 @@ Examples:
 * Start this action if the case has been sitting in the queue for more than 4 hours
 * Start this action 4 hours before the subcase is due
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ### Which calendar should be used?
 
@@ -128,7 +99,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### Specific People:
 
-&nbsp;
+<textarea rows="4" cols="80"></textarea>
 
 
 
@@ -145,13 +116,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### What should the notification message say?
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 
 ### How important is this message?
@@ -162,23 +127,13 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### Execute an external script or executable
 If the action is to execute a script or executable, what is the external script or executable that should be executed?
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ### Send a message to Dovetail Carrier
 If the action is to send a message to Dovetail Carrier, what is the message that should be sent?
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 
 
@@ -197,7 +152,7 @@ Example: Repeat every 4 hours, or every 30 days
 How long should it keep repeating for?
 Example: Repeat every 4 hours, *for the next 24 hours*
 
-&nbsp;
+<textarea rows="4" cols="80"></textarea>
 
 
 ---
@@ -211,13 +166,7 @@ Examples:
 * Start this action if the case has been sitting in the queue for more than 4 hours
 * Start this action 4 hours before the subcase is due
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ### Which calendar should be used?
 
@@ -239,7 +188,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 #### Specific People:
 
-&nbsp;
+<textarea rows="4" cols="80"></textarea>
 
 
 
@@ -256,13 +205,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### What should the notification message say?
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 
 ### How important is this message?
@@ -273,24 +216,13 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 ### Execute an external script or executable
 If the action is to execute a script or executable, what is the external script or executable that should be executed?
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<textarea rows="6" cols="80"></textarea>
 
 ### Send a message to Dovetail Carrier
 If the action is to send a message to Dovetail Carrier, what is the message that should be sent?
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
+<textarea rows="6" cols="80"></textarea>
 
 
 ### Repeating Action
@@ -308,12 +240,11 @@ Example: Repeat every 4 hours, or every 30 days
 How long should it keep repeating for?
 Example: Repeat every 4 hours, *for the next 24 hours*
 
-&nbsp;
-
+<textarea rows="4" cols="80"></textarea>
 
 
 ---
 
-If your business rule needs more than 2 actions, simply include more actions that  follow the same pattern as above
+If your business rule needs more than 2 actions, simply include additional actions that follow the same pattern as above
 
 
