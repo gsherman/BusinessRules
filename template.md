@@ -116,7 +116,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 * <label><input type="radio" name="urgency1">Low</label>
 * <label><input type="radio" name="urgency1">Medium</label>
-* <label><input type="radio" name="urgency1">Highj</label>
+* <label><input type="radio" name="urgency1">High</label>
 
 
 ### Execute an external script or executable
@@ -211,7 +211,7 @@ This could be specific people, such as Fred, the Support Manager. Or it could be
 
 * <label><input type="radio" name="urgency2">Low</label>
 * <label><input type="radio" name="urgency2">Medium</label>
-* <label><input type="radio" name="urgency2">Highj</label>
+* <label><input type="radio" name="urgency2">High</label>
 
 
 ### Execute an external script or executable
@@ -230,8 +230,8 @@ If the action is to send a message to Dovetail Carrier, what is the message that
 
 Should this action repeat?
 
-* <label><input type="radio" name="repeat2">No</label>
-* <label><input type="radio" name="repeat2">Yes</label>
+<label><input type="radio" name="repeat2">No</label>
+<label><input type="radio" name="repeat2">Yes</label>
 
 
 A repeating action should have a stop event. 
