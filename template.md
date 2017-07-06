@@ -1,14 +1,5 @@
 # Business Rule Template
 
-<textarea rows="6" cols="80"></textarea>
-
-<textarea>foo</textarea>
-
-<input type="checkbox" id="foo"><label for="foo">Bar</label>
-<input type="radio" >
-<label><input type="checkbox" name="checkbox" value="value">Text</label>
-<label><input type="radio" name="radio" value="value">Text</label>
-
 This template is helpful when defining new business rules. 
 It can be provided to business users, whi can fill out the template and submit it to the technical staff.
 
