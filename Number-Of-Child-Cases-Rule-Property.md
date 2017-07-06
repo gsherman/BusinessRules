@@ -1,4 +1,5 @@
 ### Rule Property
+
 |  |  |
 | ------------- | ------------- |
 | Name	| Number Of Child Cases

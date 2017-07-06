@@ -1,4 +1,5 @@
 ### Rule Property
+
 |  |  |
 | ------------- | ------------- |
 | Name	| NumberOfOpenSubcases
