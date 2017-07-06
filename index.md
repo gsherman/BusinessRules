@@ -1,3 +1,6 @@
+## Business Rule Template
+* [Business Rule Template](template)
+
 ## Business Rules
 
 ### Notifications
