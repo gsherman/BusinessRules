@@ -1,5 +1,11 @@
 # Business Rule Template
 
+<textarea></textarea>
+
+<textarea>foo</textarea>
+
+<input type="checkbox" name="vehicle" value="Bike">
+
 This template is helpful when defining new business rules. 
 It can be provided to business users, whi can fill out the template and submit it to the technical staff.
 
