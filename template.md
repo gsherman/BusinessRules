@@ -8,7 +8,7 @@ Like any business process template, this is meant to be used as a guide, and as 
 
 ## Description of the rule.  
 
-Be as descriptive as possible.  Use your own words. Talk like a human, not a robot, computer, or geek! 
+Be as descriptive as possible.  Use your own words. Talk like a human - not a robot, computer, or geek! 
 
 <textarea rows="6" cols="80"></textarea>
 
@@ -143,9 +143,11 @@ A repeating action should have a stop event.
 Example: Notify queue members when a case is dispatched to a queue. Keep notifying them every 4 hours until the case is accepted out of the queue.
 
 ### If this action should repeat, how often should it repeat? 
-
 Example: Repeat every 4 hours, or every 30 days
-How long should it keep repeating for?
+
+<textarea rows="4" cols="80"></textarea>
+
+### How long should it keep repeating for?
 Example: Repeat every 4 hours, *for the next 24 hours*
 
 <textarea rows="4" cols="80"></textarea>
@@ -238,12 +240,15 @@ A repeating action should have a stop event.
 Example: Notify queue members when a case is dispatched to a queue. Keep notifying them every 4 hours until the case is accepted out of the queue.
 
 ### If this action should repeat, how often should it repeat? 
-
 Example: Repeat every 4 hours, or every 30 days
-How long should it keep repeating for?
+
+<textarea rows="4" cols="80"></textarea>
+
+### How long should it keep repeating for?
 Example: Repeat every 4 hours, *for the next 24 hours*
 
 <textarea rows="4" cols="80"></textarea>
+
 
 ---
 
