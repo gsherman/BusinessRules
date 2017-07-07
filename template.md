@@ -1,7 +1,7 @@
 # Business Rule Template
 
 This template is helpful when defining new business rules. 
-It can be provided to business users, whi can fill out the template and submit it to the technical staff.
+It can be provided to business users, who can fill out the template and submit it to the technical staff.
 
 Like any business process template, this is meant to be used as a guide, and as a starting point. Often, additonal discussions betwen business users and technical staff to further refine the rule may be useful. 
 
